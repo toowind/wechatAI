@@ -1,0 +1,14 @@
+
+{
+  "api_key": "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",
+  "auto_pass": true,
+  "session_timeout": 60,
+  "max_tokens": 1024,
+  "model": "gpt-3.5-turbo",
+  "temperature": 1,
+  "reply_prefix": "",
+  "size": "512x512",
+  "session_clear_token": "清空会话"
+}
+
+
